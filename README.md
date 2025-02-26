@@ -1,4 +1,4 @@
-# 📊 Murphy Insurance - Power BI Dashboard  
+# 📊 Murphy Insurance Pvt. Ltd.'s - Power BI Dashboard  
 
 ![Dashboard Preview](https://github.com/mercydeez/Murphy_Insurance/blob/main/MurphyBI.png)  
 
