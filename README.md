@@ -3,14 +3,16 @@
 ![Dashboard Preview](https://github.com/mercydeez/Murphy_Insurance/blob/main/MurphyBI.png)  
 
 ## 📌 Project Overview  
-This Power BI dashboard provides an in-depth analysis of **Murphy Insurance Pvt. Ltd.'s** business operations. It visualizes key insurance metrics, including **policy sales, claims, customer demographics, and revenue trends**. The dashboard helps the company make **data-driven decisions** by identifying trends, monitoring active policies, and analyzing customer segments.  
+This Power BI dashboard provides insights into **Murphy Insurance Pvt. Ltd.'s** policy sales, claims, customer demographics, and revenue trends. It helps track key trends, monitor active policies, and make better strategic business decisions with data-driven insights.  
+
+---
 
 ## 🛠 Features  
 ✅ **Comprehensive Data Insights:** Policy sales, claims, and customer details analyzed in depth  
 ✅ **Conditional Columns for Better Segmentation:**  
-   - **Age Group Segmentation:** Customers are categorized into three age groups  
+   - **Age Group Segmentation:** Customers are categorized into three distinct groups  
    - **Policy Status Classification:** Policies are labeled as **Active** or **Inactive**
-     
+ 
 ✅ **Interactive Visuals & Filters:** Easily explore different time periods, regions, and policy types  
 ✅ **KPI Metrics:** Key insights on total policies, claims, revenue, and active customers  
 
@@ -22,21 +24,21 @@ This Power BI dashboard provides an in-depth analysis of **Murphy Insurance Pvt.
 |------------------------|--------------------------------|
 | `Prism_Insurance.pbix` | Power BI dashboard file        |
 | `InsuranceData.csv`    | Dataset used in the dashboard |
-| `MurphyBI.png`        | Dashboard preview image        |
+| `MurphyBI.png`         | Dashboard preview image       |
 
 ---
 
 ## 🔍 Dataset Information  
-The dataset contains information about **insurance policies, claims, and customer details**. Two **conditional columns** were added:  
+The dataset contains information about **insurance policies, claims, and customer demographics**. Two **conditional columns** were added for better analysis:  
 
-1️⃣ **Age Group Classification:**  
-   - **Adult (18-24 years)**  
-   - **Young-Adult (25-60 years)**  
+### **1️⃣ Age Group Classification:**  
+   - **Young Adult (18-24 years)**  
+   - **Adult (25-59 years)**  
    - **Elder (60+ years)**  
 
-2️⃣ **Policy Status Classification:**  
-   - **Active** → If the policy is currently in effect  
-   - **Inactive** → If the policy has expired or is not renewed  
+### **2️⃣ Policy Status Classification:**  
+   - **Active** → Policy is currently in effect  
+   - **Inactive** → Policy has expired or not renewed  
 
 ### 🏷 **Dataset Columns:**  
 
@@ -45,7 +47,7 @@ The dataset contains information about **insurance policies, claims, and custome
 | `Policy_ID`       | Unique identifier for each policy                   |
 | `Customer_Name`   | Name of the policyholder                            |
 | `Customer_Age`    | Age of the policyholder                             |
-| `Age_Group`       | Categorized as **Young (18-35), Middle-Aged (36-55), Senior (56+)** |
+| `Age_Group`       | Categorized as **Young Adult (18-24), Adult (25-59), Elder (60+)** |
 | `Gender`          | Gender of the policyholder                          |
 | `Region`          | Geographic location of the customer                 |
 | `Policy_Type`     | Type of insurance policy (Health, Life, Auto, etc.) |
@@ -110,3 +112,12 @@ If you want to improve this dashboard, feel free to **fork the repository** and 
 For any queries or suggestions, reach out via:  
 📧 **Email:** [atharva3895@gmail.com](mailto:atharva3895@gmail.com)  
 📩 **LinkedIn:** [Atharva Soundankar](https://www.linkedin.com/in/atharva-soundankar/)  
+
+---
+
+### ✅ **Next Steps:**  
+1. **Copy this README.md** and add it to your **GitHub repository**  
+2. Upload additional **screenshots** if needed  
+3. Update your **GitHub repository description** with a short summary  
+
+🚀🔥 This will make your project **professional, well-documented, and presentable**! Let me know if you need any modifications! 😊  
