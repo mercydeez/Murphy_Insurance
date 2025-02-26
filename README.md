@@ -9,7 +9,8 @@ This Power BI dashboard provides an in-depth analysis of **Murphy Insurance Pvt.
 ✅ **Comprehensive Data Insights:** Policy sales, claims, and customer details analyzed in depth  
 ✅ **Conditional Columns for Better Segmentation:**  
    - **Age Group Segmentation:** Customers are categorized into three age groups  
-   - **Policy Status Classification:** Policies are labeled as **Active** or **Inactive**  
+   - **Policy Status Classification:** Policies are labeled as **Active** or **Inactive**
+     
 ✅ **Interactive Visuals & Filters:** Easily explore different time periods, regions, and policy types  
 ✅ **KPI Metrics:** Key insights on total policies, claims, revenue, and active customers  
 
