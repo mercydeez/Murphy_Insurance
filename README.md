@@ -2,19 +2,35 @@
 
 ![Dashboard Preview](https://github.com/mercydeez/Murphy_Insurance/blob/main/MurphyBI.png)  
 
+## 📌 Table of Contents  
+1. [Project Overview](#project-overview)  
+2. [Features](#features)  
+3. [Files in This Repository](#files-in-this-repository)  
+4. [Dataset Information](#dataset-information)  
+   - [Age Group Classification](#1️⃣-age-group-classification)  
+   - [Policy Status Classification](#2️⃣-policy-status-classification)  
+5. [How to Use](#how-to-use)  
+6. [Dashboard Insights](#dashboard-insights)  
+7. [Tools & Technologies Used](#tools--technologies-used)  
+8. [Future Enhancements](#future-enhancements)  
+9. [Contributing](#contributing)  
+10. [Contact](#contact)  
+
+---
+
 ## 📌 Project Overview  
 This Power BI dashboard provides insights into **Murphy Insurance Pvt. Ltd.'s** policy sales, claims, customer demographics, and revenue trends. It helps track key trends, monitor active policies, and make better strategic business decisions with data-driven insights.  
 
 ---
 
 ## 🛠 Features  
-✅ **Comprehensive Data Insights:** Policy sales, claims, and customer details analyzed in depth  
+✅ **Comprehensive Data Insights:** Analyze policy sales, claims, and customer details  
 ✅ **Conditional Columns for Better Segmentation:**  
-   - **Age Group Segmentation:** Customers are categorized into three distinct groups  
-   - **Policy Status Classification:** Policies are labeled as **Active** or **Inactive**
- 
-✅ **Interactive Visuals & Filters:** Easily explore different time periods, regions, and policy types  
-✅ **KPI Metrics:** Key insights on total policies, claims, revenue, and active customers  
+- **Age Group Classification:** Customers are categorized into three groups  
+- **Policy Status Classification:** Policies are labeled as **Active** or **Inactive**
+   
+✅ **Interactive Visuals & Filters:** Explore trends by region, policy type, and age group  
+✅ **KPI Metrics:** Track total policies, claims, revenue, and active customers  
 
 ---
 
@@ -80,8 +96,6 @@ The dataset contains information about **insurance policies, claims, and custome
 ---
 
 ## 📊 Dashboard Insights  
-Here are some key insights derived from the dashboard:  
-
 📌 **Most Active Age Group:** Identify which customer segment buys the most policies  
 📌 **Claims vs. Policy Type:** Determine which policies have the highest claim rates  
 📌 **Revenue Trends:** Analyze premium collection trends over time  
@@ -112,12 +126,3 @@ If you want to improve this dashboard, feel free to **fork the repository** and 
 For any queries or suggestions, reach out via:  
 📧 **Email:** [atharva3895@gmail.com](mailto:atharva3895@gmail.com)  
 📩 **LinkedIn:** [Atharva Soundankar](https://www.linkedin.com/in/atharva-soundankar/)  
-
----
-
-### ✅ **Next Steps:**  
-1. **Copy this README.md** and add it to your **GitHub repository**  
-2. Upload additional **screenshots** if needed  
-3. Update your **GitHub repository description** with a short summary  
-
-🚀🔥 This will make your project **professional, well-documented, and presentable**! Let me know if you need any modifications! 😊  
