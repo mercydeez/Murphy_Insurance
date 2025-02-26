@@ -30,9 +30,9 @@ This Power BI dashboard provides an in-depth analysis of **Murphy Insurance Pvt.
 The dataset contains information about **insurance policies, claims, and customer details**. Two **conditional columns** were added:  
 
 1️⃣ **Age Group Classification:**  
-   - **Young (18-35 years)**  
-   - **Middle-Aged (36-55 years)**  
-   - **Senior (56+ years)**  
+   - **Adult (18-24 years)**  
+   - **Young-Adult (25-60 years)**  
+   - **Elder (60+ years)**  
 
 2️⃣ **Policy Status Classification:**  
    - **Active** → If the policy is currently in effect  
