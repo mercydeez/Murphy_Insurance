@@ -2,20 +2,6 @@
 
 ![Dashboard Preview](https://github.com/mercydeez/Murphy_Insurance/blob/main/MurphyBI.png)  
 
-## 📌 Table of Contents  
-1. [Project Overview](#project-overview)  
-2. [Features](#features)  
-3. [Files in This Repository](#files-in-this-repository)  
-4. [Dataset Information](#dataset-information)  
-   - [Age Group Classification](#1️⃣-age-group-classification)  
-   - [Policy Status Classification](#2️⃣-policy-status-classification)  
-5. [How to Use](#how-to-use)  
-6. [Dashboard Insights](#dashboard-insights)  
-7. [Tools & Technologies Used](#tools--technologies-used)  
-8. [Future Enhancements](#future-enhancements)  
-9. [Contributing](#contributing)  
-10. [Contact](#contact)  
-
 ---
 
 ## 📌 Project Overview  
